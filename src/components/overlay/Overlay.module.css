@@ -1,0 +1,21 @@
+.info{
+
+    display: flex;
+    width: 30%;
+    margin-right: 3%;
+    background-color: white;
+    align-items: center;
+    flex-direction: row;
+
+    button{
+        margin-left: 4%;
+        margin-right: 4%;
+        color: #11C76F;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        border: none;
+        background-color: white;
+    }
+
+}
