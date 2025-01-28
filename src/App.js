@@ -8,12 +8,12 @@ import Final from './components/pages/Final';
 
 //Imagens
 import ImgDeterminacao from './images/determinacao.png'
-import ImgDisponibilidade from './images/determinacao.png'
-import ImgFranqueza from './images/determinacao.png'
-import ImgHumildade from './images/determinacao.png'
-import ImgSimplicidade from './images/determinacao.png'
-import ImgDisciplina from './images/determinacao.png'
-import ImgAtitudeDeDono from './images/determinacao.png'
+import ImgDisponibilidade from './images/disponibilidade.png'
+import ImgFranqueza from './images/franqueza.webp'
+import ImgHumildade from './images/humildade.png'
+import ImgSimplicidade from './images/simplicidade.png'
+import ImgDisciplina from './images/disciplina.png'
+import ImgAtitudeDeDono from './images/atitudededono.webp'
 
 
 function App() {
