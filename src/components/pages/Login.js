@@ -64,8 +64,7 @@ function Login() {
                     <input type="text" name="nome" id="nome" required />
                 </div>
 
-                <button type="sumbit">Próximo</button>
-                   
+                <button type="submit">Próximo</button>
             </form>
         </>
     )
